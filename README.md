@@ -1,4 +1,4 @@
-Hi, I’m @dantebonaventura. 
+Hi, I’m Dante Bonaventura. 
 
 <!---
 dantebonaventura/dantebonaventura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
